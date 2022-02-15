@@ -1,0 +1,12 @@
+D:\ApartmentManagmentSystem\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\ApartmentManagmentSystem\DAL\bin\Debug\net6.0\DAL.dll
+D:\ApartmentManagmentSystem\DAL\bin\Debug\net6.0\ref\DAL.dll
+D:\ApartmentManagmentSystem\DAL\bin\Debug\net6.0\DAL.pdb
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.dll
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\ApartmentManagmentSystem\DAL\obj\Debug\net6.0\DAL.pdb

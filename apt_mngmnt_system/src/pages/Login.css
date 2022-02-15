@@ -1,0 +1,15 @@
+.btn-primary {
+    color: #fff;
+    background-color: #6C63FF !important;
+    border-color: #6C63FF !important;
+}
+
+.icon-img{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1.5rem;
+}
+
+.reset{
+    color:black
+}

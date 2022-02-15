@@ -1,0 +1,9 @@
+14.02.2022 00:46:36: DELETE USER ERROR. Value cannot be null. (Parameter 'entity')
+14.02.2022 00:46:44: DELETE USER ERROR. Value cannot be null. (Parameter 'entity')
+14.02.2022 00:47:52: DELETE USER ERROR. Value cannot be null. (Parameter 'entity')
+14.02.2022 00:50:56: DELETE USER ERROR. Value cannot be null. (Parameter 'entity')
+14.02.2022 00:51:32: DELETE USER ERROR. Value cannot be null. (Parameter 'entity')
+14.02.2022 02:08:53: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 02:46:24: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 02:47:33: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+14.02.2022 02:47:59: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.

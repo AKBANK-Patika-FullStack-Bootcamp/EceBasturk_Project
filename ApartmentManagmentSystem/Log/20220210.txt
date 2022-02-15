@@ -1,0 +1,5 @@
+10.02.2022 00:12:16: ADD ELeCTRİCİTY BİLL ERROR An error occurred while saving the entity changes. See the inner exception for details.
+10.02.2022 00:13:53: ADD ELeCTRİCİTY BİLL ERROR An error occurred while saving the entity changes. See the inner exception for details.
+10.02.2022 00:20:02: ADD ELeCTRİCİTY BİLL ERROR An error occurred while saving the entity changes. See the inner exception for details.
+10.02.2022 12:05:22: DELETE USER ERROR. An error occurred while saving the entity changes. See the inner exception for details.
+10.02.2022 12:06:32: DELETE USER ERROR. An error occurred while saving the entity changes. See the inner exception for details.

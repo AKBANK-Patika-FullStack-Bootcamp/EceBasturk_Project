@@ -1,0 +1,12 @@
+9.02.2022 18:38:40: ADD APARTMENT ERROR The entity type 'Due' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+9.02.2022 18:39:19: ADD APARTMENT ERROR The entity type 'Due' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+9.02.2022 18:40:50: ADD APARTMENT ERROR The entity type 'Due' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+9.02.2022 18:44:14: ADD APARTMENT ERROR The entity type 'Due' requires a primary key to be defined. If you intended to use a keyless entity type, call 'HasNoKey' in 'OnModelCreating'. For more information on keyless entity types, see https://go.microsoft.com/fwlink/?linkid=2141943.
+9.02.2022 18:54:15: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 18:57:24: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 19:03:12: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 19:04:47: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 21:31:05: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 21:32:05: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 21:35:08: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
+9.02.2022 21:42:10: ADD APARTMENT ERROR An error occurred while saving the entity changes. See the inner exception for details.
