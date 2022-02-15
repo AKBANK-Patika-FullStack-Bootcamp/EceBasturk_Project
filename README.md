@@ -1,0 +1,4 @@
+# APARTMAN YÖNETİM SİSTEMİ
+AKBANK-PATİKA .NET CORE VE REACT BOOTCAMPİ İÇİN GELİŞTİRİLMİŞTİR.
+
+PROJENİN VİDEOSUNA [GOOGLE DRİVE](https://drive.google.com/drive/folders/152TEJNmlZA9AR-0siaAe8U1GsAIpAb1y?usp=sharing) LİNKİNDEN ULAŞABİLİRSİNİZ.
